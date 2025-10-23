@@ -1,21 +1,27 @@
 <details>
 <summary>ENG (English Version)</summary>
 
-## **Chapter 1 – Society with Artificial Intelligence**  
+## **Chapter 2 – Computer Overview**  
 
-This chapter explains how AI and cutting-edge technologies shape modern society, focusing on the **metaverse**, **smart technologies**, and the **Fourth Industrial Revolution**.  
+This chapter introduces the fundamental concepts of what a computer is, its components, origin, and evolution. It explains the difference between hardware and software and provides a historical context of computer development through various generations.
 
-### **1. The Metaverse and Virtual Worlds**  
-Introduces the concept of the metaverse—a fusion of physical and virtual realities. Discusses avatars, mixed reality (MR), extended reality (XR), and how VR/AR technologies are used in education, entertainment, and conferences. The ASF classifies metaverse types such as augmented reality, lifelogging, mirror worlds, and virtual worlds.  
+### **1. What is a Computer?**  
+A computer is an electronic device that performs calculations and processes data. The four main functions of a computer are processing, storing, inputting, and outputting data. Computers convert input data into digital form (0s and 1s), process and store it, then produce output through various devices.
 
-### **2. Artificial Intelligence in Daily Life**  
-Explains the rise of AI from Turing’s early ideas to modern deep learning. Covers examples like AlphaGo, speech recognition (STT), text-to-speech (TTS), and chatbot services. Describes how machine learning, neural networks, and GPUs/TPUs enable innovations such as autonomous vehicles, voice assistants (Siri, Bixby, Watson), and computer vision.  
+### **2. Hardware Elements**  
+Hardware refers to the physical components of a computer that manage input, processing, and output operations. The main parts include:  
+- Central Processing Unit (CPU): composed of the Arithmetic Logic Unit (ALU) for arithmetic and logical operations and the control unit that manages processing.  
+- Memory: primary (RAM) and secondary storage.  
+- Input and output devices.
 
-### **3. Internet and Digital Contents**  
-Describes the evolution of the Internet (WWW, protocols, browsers) and the “smart revolution” after smartphones. Highlights online content trends like OTT (Netflix), user-created content (YouTube), and social media (SNS). Discusses the role of recommendation systems powered by machine learning and deep learning.  
+### **3. Software Elements**  
+Software comprises programs and instructions that tell the hardware what tasks to perform. It controls the overall behavior and functions of a computer system. It includes system software (like operating systems) and application software.
 
-### **4. The Fourth Industrial Revolution**  
-Introduces Klaus Schwab’s concept emphasizing AI, IoT, and big data as key elements for the next industrial era. Explains IoT (Internet of Things) as the interconnection of billions of devices and big data as a driver for smart decision-making in fields like transportation, manufacturing, and healthcare.  
+### **4. Computer Origins and Evolution**  
+The chapter discusses the history of computers from mechanical calculators and the development of calculation theories to the advent of electronic computers. It explains generational differences and the technological advances that led to modern computers.
+
+### **5. Types of Computers**  
+Computers are classified based on size, performance, and use cases: from personal computers and workstations to mainframes and supercomputers. Emerging forms like kiosks and POS (point of sale) systems are also described.
 
 </details>
 
@@ -23,21 +29,26 @@ Introduces Klaus Schwab’s concept emphasizing AI, IoT, and big data as key ele
 <details>
 <summary>KOR (한국어 버전)</summary>
 
-## **1장 – 인공지능과 함께하는 우리사회**  
+## **2장 – 컴퓨터 개요**  
 
-이 장은 인공지능(AI), 메타버스, 인터넷 콘텐츠, 제4차 산업혁명 등 현대 사회의 핵심 IT 개념과 기술 변화를 다룸.  
+이 장에서는 컴퓨터의 정의, 구성 요소, 기원 및 발전 과정을 소개합니다. 하드웨어와 소프트웨어의 차이를 설명하고, 컴퓨터 발전 역사를 세대별로 이해할 수 있도록 구성되어 있습니다.
 
-### **1. 가상세계와 메타버스**  
-가상세계, 아바타, 증강현실(AR), 가상현실(VR), 혼합현실(MR), 확장현실(XR)의 개념과 특징을 설명. 메타버스는 현실과 가상의 융합 공간으로, 교육·콘서트·산업현장 등에서 활용 사례를 소개함. ASF 분류 체계에 따라 증강현실·라이프로깅·거울세계·가상세계로 구분.  
+### **1. 컴퓨터란 무엇인가?**  
+컴퓨터는 전자적으로 계산을 수행하는 장치로, 처리(process), 저장(store), 입력(input), 출력(output)의 네 가지 주요 기능을 수행합니다. 입력된 데이터를 0과 1의 디지털 형태로 변환하여 처리하고 저장한 뒤, 출력 장치를 통해 결과를 전달합니다.
 
-### **2. 인공지능과 삶의 변화**  
-앨런 튜링의 개념부터 현대의 딥러닝까지 인공지능의 발전 단계를 다룸. 알파고, 음성인식(STT), 음성합성(TTS), 챗봇 서비스, 자율주행 자동차 등의 기술 적용 사례를 설명. GPU와 TPU의 병렬처리 성능, 스마트기기에 적용된 AI 기능 등을 소개함.  
+### **2. 하드웨어 요소**  
+하드웨어는 컴퓨터의 물리적 장치로 입력, 처리, 출력을 담당합니다. 주요 구성 요소는 다음과 같습니다:  
+- 중앙처리장치(CPU): 산술논리연산을 담당하는 연산장치(ALU)와 처리 제어를 담당하는 제어장치로 구성됩니다.  
+- 기억장치: 주기억장치(RAM)와 보조기억장치.  
+- 입력 및 출력 장치.
 
-### **3. 인터넷 콘텐츠 서비스**  
-인터넷과 월드와이드웹(WWW)의 구조를 설명하고, 스마트폰 등장 이후 정보기술 변화(스마트혁명)를 다룸.  
-OTT(넷플릭스 등), 사용자 제작 콘텐츠(UCC, 유튜브), 소셜네트워크서비스(SNS)의 발전과 인공지능 기반 추천 시스템의 활용을 다루며 콘텐츠 소비 방식의 변화를 분석함.  
+### **3. 소프트웨어 요소**  
+소프트웨어는 하드웨어가 수행할 작업을 지시하는 명령어 집합으로, 컴퓨터의 동작과 기능을 제어합니다. 시스템 소프트웨어(운영체제 등)와 응용 소프트웨어로 구분됩니다.
 
-### **4. 제4차 산업혁명 시대**  
-클라우스 슈밥이 제시한 제4차 산업혁명의 정의를 중심으로, AI, 사물인터넷(IoT), 빅데이터가 융합된 지능형 사회를 설명. IoT는 모든 사물을 네트워크로 연결하여 대량의 데이터(빅데이터)를 생성하며, 이 데이터를 분석·활용해 생산성과 효율을 높이는 기술로 발전하고 있음을 서술함.  
+### **4. 컴퓨터의 기원과 발전**  
+기계식 계산기와 계산 이론의 발달부터 전자식 컴퓨터의 출현까지 컴퓨터의 역사를 다룹니다. 발전 세대별 특징과 기술적 진보를 설명합니다.
+
+### **5. 컴퓨터의 종류**  
+크기, 성능, 용도에 따라 개인용 컴퓨터, 워크스테이션, 메인프레임, 슈퍼컴퓨터 등으로 분류하며, 키오스크와 POS 시스템 등 새로운 형태의 컴퓨터도 소개합니다.
 
 </details>
