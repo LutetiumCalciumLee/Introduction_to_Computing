@@ -1,43 +1,98 @@
 <details>
 <summary>ENG (English Version)</summary>
 
-## **Chapter 1 – Society with Artificial Intelligence**  
+## **Chapter 5 – Operating Systems and Applications**  
 
-This chapter explains how AI and cutting-edge technologies shape modern society, focusing on the **metaverse**, **smart technologies**, and the **Fourth Industrial Revolution**.  
+This chapter focuses on the operating system (OS), its functions, management mechanisms, evolution, and practical use, especially in the Windows environment.
 
-### **1. The Metaverse and Virtual Worlds**  
-Introduces the concept of the metaverse—a fusion of physical and virtual realities. Discusses avatars, mixed reality (MR), extended reality (XR), and how VR/AR technologies are used in education, entertainment, and conferences. The ASF classifies metaverse types such as augmented reality, lifelogging, mirror worlds, and virtual worlds.  
+### **1. Overview of Operating Systems**  
+An **Operating System (OS)** is system software that controls and coordinates all activities within a computer system. It manages hardware resources (CPU, memory, I/O devices, file systems) and provides a user interface that bridges human-computer interaction.
 
-### **2. Artificial Intelligence in Daily Life**  
-Explains the rise of AI from Turing’s early ideas to modern deep learning. Covers examples like AlphaGo, speech recognition (STT), text-to-speech (TTS), and chatbot services. Describes how machine learning, neural networks, and GPUs/TPUs enable innovations such as autonomous vehicles, voice assistants (Siri, Bixby, Watson), and computer vision.  
+### **2. Functions and Purpose of an OS**  
+The OS ensures efficient use of system resources and provides a convenient environment for users. Its main roles include resource management, process scheduling, device handling, and file organization, optimizing overall system performance.
 
-### **3. Internet and Digital Contents**  
-Describes the evolution of the Internet (WWW, protocols, browsers) and the “smart revolution” after smartphones. Highlights online content trends like OTT (Netflix), user-created content (YouTube), and social media (SNS). Discusses the role of recommendation systems powered by machine learning and deep learning.  
+### **3. User Interface Types**  
+Operating systems offer user interfaces in two major forms:  
+- **CLI (Command Line Interface):** Text-based interface where users input commands (e.g., MS-DOS, UNIX shell).  
+- **GUI (Graphical User Interface):** Visually oriented interface developed in the 1970s at Xerox PARC, later adopted by Apple’s Mac OS, UNIX’s X Windows, and Microsoft Windows.
 
-### **4. The Fourth Industrial Revolution**  
-Introduces Klaus Schwab’s concept emphasizing AI, IoT, and big data as key elements for the next industrial era. Explains IoT (Internet of Things) as the interconnection of billions of devices and big data as a driver for smart decision-making in fields like transportation, manufacturing, and healthcare.  
+### **4. System Resource Management**  
+The OS manages key resources:  
+- **Memory Management:** Determines which process occupies memory and recovers unused space.  
+- **Process Management:** Handles creation, execution, suspension, or termination of processes.  
+- **Device and File Management:** Uses drivers for I/O control, handles file access, and manages file creation, deletion, and organization within directories.
+
+### **5. Classification of Operating Systems**  
+- **Batch Processing:** Collects data and processes it sequentially (IBM’s early systems).  
+- **Time-Sharing Systems:** Allows multiple users to share CPU time slices (CTSS, developed at MIT).  
+- **Multiprogramming:** Runs several programs “simultaneously” by switching rapidly.  
+- **Multiprocessing:** Distributes tasks across multiple CPUs for reliability and speed.  
+- **Real-Time Processing:** Used in missile control or banking systems requiring immediate responses.  
+- **Distributed Systems:** Shares computing tasks across networked computers for efficiency.
+
+### **6. Evolution of Operating Systems**  
+Traces OS development:  
+- **MS-DOS (1981):** Command-line, disk-based OS for IBM PCs.  
+- **Windows (1983–present):** Evolved from environment (Windows 3.1) to full GUI OS (Windows 95), introducing Windows 10’s virtual desktops and Windows 11’s multitasking upgrades.  
+- **OS/2:** Joint IBM–Microsoft project for Intel 386 architecture, later split into OS/2 and Windows NT.  
+- **Apple Macintosh OS:** First GUI-based personal computer system, evolving through Mac OS X (UNIX-based) and iOS integration.  
+- **Linux (1991):** Open-source UNIX-like OS with multiuser and multitasking capabilities.  
+- **UNIX (1973–):** C language–based system from Bell Labs, later branching into System V and BSD versions.
+
+### **7. Practical Windows Applications**  
+Demonstrates Windows features:  
+- **Virtual Desktops:** Multiple workspaces via shortcuts (Windows + Tab).  
+- **File Explorer Shortcuts:** Access to frequent files with right-click pinning and removal options.  
+- **Folder Options:** Organize and display layout preferences for efficient file management.
 
 </details>
-
 
 <details>
 <summary>KOR (한국어 버전)</summary>
 
-## **1장 – 인공지능과 함께하는 우리사회**  
+## **5장 – 운영체제와 활용**  
 
-이 장은 인공지능(AI), 메타버스, 인터넷 콘텐츠, 제4차 산업혁명 등 현대 사회의 핵심 IT 개념과 기술 변화를 다룸.  
+이 장은 운영체제의 개념, 기능, 분류, 발전 과정, 그리고 윈도우 환경에서의 활용 방법에 대한 설명.
 
-### **1. 가상세계와 메타버스**  
-가상세계, 아바타, 증강현실(AR), 가상현실(VR), 혼합현실(MR), 확장현실(XR)의 개념과 특징을 설명. 메타버스는 현실과 가상의 융합 공간으로, 교육·콘서트·산업현장 등에서 활용 사례를 소개함. ASF 분류 체계에 따라 증강현실·라이프로깅·거울세계·가상세계로 구분.  
+### **1. 운영체제 개요**  
+운영체제(OS)는 컴퓨터의 모든 자원을 제어하고 조정하는 시스템 소프트웨어. CPU, 기억장치, 입출력장치, 파일 시스템 등을 관리하고 사용자와 컴퓨터 간의 인터페이스 역할을 수행함.
 
-### **2. 인공지능과 삶의 변화**  
-앨런 튜링의 개념부터 현대의 딥러닝까지 인공지능의 발전 단계를 다룸. 알파고, 음성인식(STT), 음성합성(TTS), 챗봇 서비스, 자율주행 자동차 등의 기술 적용 사례를 설명. GPU와 TPU의 병렬처리 성능, 스마트기기에 적용된 AI 기능 등을 소개함.  
+### **2. 운영체제의 목적과 기능**  
+운영체제의 목적은 시스템 자원을 효율적으로 관리하고 사용자가 편리하게 시스템을 이용할 수 있는 환경을 제공. 주요 기능은 프로세스 관리, 기억장치 관리, 입출력장치 관리, 파일 관리 등으로 구성.
 
-### **3. 인터넷 콘텐츠 서비스**  
-인터넷과 월드와이드웹(WWW)의 구조를 설명하고, 스마트폰 등장 이후 정보기술 변화(스마트혁명)를 다룸.  
-OTT(넷플릭스 등), 사용자 제작 콘텐츠(UCC, 유튜브), 소셜네트워크서비스(SNS)의 발전과 인공지능 기반 추천 시스템의 활용을 다루며 콘텐츠 소비 방식의 변화를 분석함.  
+### **3. 사용자 인터페이스 방식**  
+운영체제는 명령행 인터페이스(CLI)와 그래픽 사용자 인터페이스(GUI) 두 가지 형태로 구분.  
+- CLI: 문자 명령어를 이용한 방식 (예: MS-DOS, UNIX 쉘).  
+- GUI: 시각적 요소를 사용하는 방식으로, 1970년대 제록스 연구소에서 개발되어 맥OS와 윈도우 운영체제에 적용.
 
-### **4. 제4차 산업혁명 시대**  
-클라우스 슈밥이 제시한 제4차 산업혁명의 정의를 중심으로, AI, 사물인터넷(IoT), 빅데이터가 융합된 지능형 사회를 설명. IoT는 모든 사물을 네트워크로 연결하여 대량의 데이터(빅데이터)를 생성하며, 이 데이터를 분석·활용해 생산성과 효율을 높이는 기술로 발전하고 있음을 서술함.  
+### **4. 시스템 자원 관리**  
+운영체제는 시스템 자원의 효율적 배분과 관리를 수행.  
+- 기억장치 관리: 프로세스를 적재 및 회수.  
+- 프로세스 관리: 생성, 삭제, 중지, 동기화 등 실행 상태를 관리.  
+- 장치 및 파일 관리: 장치 드라이버를 통해 하드웨어 제어를 수행하며 파일 생성, 삭제, 수정, 공유를 감독.
+
+### **5. 운영체제의 분류**  
+운영체제는 처리 방식에 따라 여러 형태로 구분.  
+- 일괄처리 시스템: 자료를 모아 순차적으로 처리하는 방식.  
+- 시분할 시스템: 한 CPU를 여러 사용자가 시간분할로 사용하는 방식.  
+- 다중프로그래밍: 여러 프로그램을 주기억장치에 동시에 적재하여 순차 실행하는 방식.  
+- 다중처리시스템: 여러 CPU를 이용해 병렬 작업을 수행하는 방식.  
+- 실시간처리시스템: 즉시 응답해야 하는 작업(예: 미사일 제어, 은행 시스템)에 적용되는 방식.  
+- 분산처리시스템: 네트워크로 연결된 컴퓨터들이 자원과 작업을 분산 처리하는 방식.
+
+### **6. 운영체제의 발전 과정**  
+운영체제의 발전 과정은 다음과 같음.  
+- MS-DOS: 1981년 등장한 명령행 기반 디스크 중심 운영체제임  
+- 윈도우: 그래픽 인터페이스 기반 운영체제로 발전(윈도우95 이후 독립 OS로 자리함).  
+- OS/2: IBM과 마이크로소프트가 협력 개발한 32비트 운영체제.  
+- 애플 OS: 최초 GUI 개인용 컴퓨터 운영체제로, 매킨토시를 통해 상용화.  
+- 리눅스: 1991년 개발된 공개형 유닉스 기반 운영체제.  
+- 유닉스: 1970년대 C 언어로 개발된 이식성 높은 운영체제.
+
+### **7. 윈도우 운영체제 활용**  
+- 가상 데스크톱: 여러 바탕화면을 생성 및 전환하는 기능.  
+- 탐색기 바로가기: 자주 사용하는 파일과 폴더를 빠르게 열 수 있는 기능.  
+- 폴더 옵션: 보기 방식과 탐색 구조를 설정해 효율적 파일 관리를 지원하는 기능.
 
 </details>
+
