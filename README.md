@@ -1,43 +1,53 @@
 <details>
 <summary>ENG (English Version)</summary>
 
-## **Chapter 1 – Society with Artificial Intelligence**  
+## **Chapter 6 – Artificial Intelligence and Deep Learning**  
 
-This chapter explains how AI and cutting-edge technologies shape modern society, focusing on the **metaverse**, **smart technologies**, and the **Fourth Industrial Revolution**.  
+This chapter introduces artificial intelligence (AI), machine learning, neural networks, and deep learning with their definitions, historical milestones, and applications, explained in clear terms.
 
-### **1. The Metaverse and Virtual Worlds**  
-Introduces the concept of the metaverse—a fusion of physical and virtual realities. Discusses avatars, mixed reality (MR), extended reality (XR), and how VR/AR technologies are used in education, entertainment, and conferences. The ASF classifies metaverse types such as augmented reality, lifelogging, mirror worlds, and virtual worlds.  
+### **1. Overview of AI**  
+AI involves replicating human intelligence through computer hardware and software. Early AI research was inspired by neuron models like perceptrons and the Turing Test for machine intelligence.
 
-### **2. Artificial Intelligence in Daily Life**  
-Explains the rise of AI from Turing’s early ideas to modern deep learning. Covers examples like AlphaGo, speech recognition (STT), text-to-speech (TTS), and chatbot services. Describes how machine learning, neural networks, and GPUs/TPUs enable innovations such as autonomous vehicles, voice assistants (Siri, Bixby, Watson), and computer vision.  
+### **2. Machine Learning and Deep Learning**  
+Machine learning is the ability for computers to learn from data without explicit programming. Deep learning is a specialized form using multi-layer neural networks that excel at complex tasks such as image and speech recognition.
 
-### **3. Internet and Digital Contents**  
-Describes the evolution of the Internet (WWW, protocols, browsers) and the “smart revolution” after smartphones. Highlights online content trends like OTT (Netflix), user-created content (YouTube), and social media (SNS). Discusses the role of recommendation systems powered by machine learning and deep learning.  
+### **3. Historical Milestones**  
+From perceptrons and early expert systems to periods of decline known as AI winters, followed by breakthroughs like backpropagation and the rise of deep learning after 2010.
 
-### **4. The Fourth Industrial Revolution**  
-Introduces Klaus Schwab’s concept emphasizing AI, IoT, and big data as key elements for the next industrial era. Explains IoT (Internet of Things) as the interconnection of billions of devices and big data as a driver for smart decision-making in fields like transportation, manufacturing, and healthcare.  
+### **4. Neural Networks and Perceptrons**  
+Neural networks simulate layered brain neurons. Perceptrons are basic binary classifiers adjusting weights to learn. Multilayer perceptrons (MLPs) extend learning to deep neural networks.
+
+### **5. AI Applications**  
+Applications include image recognition, medical diagnostics, artistic creation, natural language processing (e.g., GPT), personalized recommendations, anomaly detection, and autonomous vehicles.
+
+### **6. Ethical Considerations**  
+AI development raises important issues of safety, privacy, and societal impact, necessitating responsible design and use.
 
 </details>
-
 
 <details>
 <summary>KOR (한국어 버전)</summary>
 
-## **1장 – 인공지능과 함께하는 우리사회**  
+## **6장 – 인공지능과 딥러닝**  
 
-이 장은 인공지능(AI), 메타버스, 인터넷 콘텐츠, 제4차 산업혁명 등 현대 사회의 핵심 IT 개념과 기술 변화를 다룸.  
+인공지능(AI), 머신러닝, 인공신경망, 딥러닝의 정의, 역사적 이정표, 응용 분야에 대한 설명.
 
-### **1. 가상세계와 메타버스**  
-가상세계, 아바타, 증강현실(AR), 가상현실(VR), 혼합현실(MR), 확장현실(XR)의 개념과 특징을 설명. 메타버스는 현실과 가상의 융합 공간으로, 교육·콘서트·산업현장 등에서 활용 사례를 소개함. ASF 분류 체계에 따라 증강현실·라이프로깅·거울세계·가상세계로 구분.  
+### **1. 인공지능 개요**  
+인간 지능을 컴퓨터 하드웨어와 소프트웨어로 구현하는 기술. 뉴런 모델과 튜링 테스트에서 비롯된 1940~50년대 초기 연구.
 
-### **2. 인공지능과 삶의 변화**  
-앨런 튜링의 개념부터 현대의 딥러닝까지 인공지능의 발전 단계를 다룸. 알파고, 음성인식(STT), 음성합성(TTS), 챗봇 서비스, 자율주행 자동차 등의 기술 적용 사례를 설명. GPU와 TPU의 병렬처리 성능, 스마트기기에 적용된 AI 기능 등을 소개함.  
+### **2. 머신러닝과 딥러닝**  
+머신러닝은 명시적 프로그래밍 없이 데이터를 기반으로 학습하는 기술. 딥러닝은 다층 신경망을 이용해 복잡한 문제를 처리하는 전문 분야.
 
-### **3. 인터넷 콘텐츠 서비스**  
-인터넷과 월드와이드웹(WWW)의 구조를 설명하고, 스마트폰 등장 이후 정보기술 변화(스마트혁명)를 다룸.  
-OTT(넷플릭스 등), 사용자 제작 콘텐츠(UCC, 유튜브), 소셜네트워크서비스(SNS)의 발전과 인공지능 기반 추천 시스템의 활용을 다루며 콘텐츠 소비 방식의 변화를 분석함.  
+### **3. 역사적 이정표**  
+퍼셉트론, 전문가 시스템, AI 겨울, 역전파 알고리즘, 2010년대 이후 딥러닝 부흥.
 
-### **4. 제4차 산업혁명 시대**  
-클라우스 슈밥이 제시한 제4차 산업혁명의 정의를 중심으로, AI, 사물인터넷(IoT), 빅데이터가 융합된 지능형 사회를 설명. IoT는 모든 사물을 네트워크로 연결하여 대량의 데이터(빅데이터)를 생성하며, 이 데이터를 분석·활용해 생산성과 효율을 높이는 기술로 발전하고 있음을 서술함.  
+### **4. 신경망과 퍼셉트론**  
+뇌 뉴런을 모방한 다층 구조. 퍼셉트론은 기본 분류기이며 MLP는 딥러닝의 기반.
+
+### **5. 응용 분야**  
+이미지 인식, 의료 진단, 예술 창작, 자연어 처리(GPT), 맞춤형 추천, 이상 감지, 자율 주행 등.
+
+### **6. 윤리적 고려사항**  
+AI 발전에 따른 안전과 개인정보 보호, 사회적 영향 문제 대두, 책임 있는 개발 중요.
 
 </details>
