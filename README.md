@@ -1,43 +1,62 @@
 <details>
 <summary>ENG (English Version)</summary>
 
-## **Chapter 1 – Society with Artificial Intelligence**  
+## **Chapter 8 – Programming Languages**  
 
-This chapter explains how AI and cutting-edge technologies shape modern society, focusing on the **metaverse**, **smart technologies**, and the **Fourth Industrial Revolution**.  
+This chapter presents the evolution, characteristics, and practical development process for various programming languages and programming paradigms.
 
-### **1. The Metaverse and Virtual Worlds**  
-Introduces the concept of the metaverse—a fusion of physical and virtual realities. Discusses avatars, mixed reality (MR), extended reality (XR), and how VR/AR technologies are used in education, entertainment, and conferences. The ASF classifies metaverse types such as augmented reality, lifelogging, mirror worlds, and virtual worlds.  
+### **1. Programming Language Concepts**  
+Programming languages are essential for instructing computers.  
+- Low-level languages: Machine language (binary), assembly language (mnemonics for hardware control).  
+- High-level languages: Closer to human language, easier for general tasks.
 
-### **2. Artificial Intelligence in Daily Life**  
-Explains the rise of AI from Turing’s early ideas to modern deep learning. Covers examples like AlphaGo, speech recognition (STT), text-to-speech (TTS), and chatbot services. Describes how machine learning, neural networks, and GPUs/TPUs enable innovations such as autonomous vehicles, voice assistants (Siri, Bixby, Watson), and computer vision.  
+### **2. Generations of Programming Languages**  
+Progression from machine language to assembly, procedural languages (FORTRAN, COBOL, BASIC), visual and block programming (Scratch), and databases.
 
-### **3. Internet and Digital Contents**  
-Describes the evolution of the Internet (WWW, protocols, browsers) and the “smart revolution” after smartphones. Highlights online content trends like OTT (Netflix), user-created content (YouTube), and social media (SNS). Discusses the role of recommendation systems powered by machine learning and deep learning.  
+### **3. Program Development Tools and Environments**  
+Basic tools: editor, compiler, linker, loader, debugger.  
+Integrated Development Environment (IDE): Combines essential tools, e.g., Visual Studio, GoLand, Eclipse.
 
-### **4. The Fourth Industrial Revolution**  
-Introduces Klaus Schwab’s concept emphasizing AI, IoT, and big data as key elements for the next industrial era. Explains IoT (Internet of Things) as the interconnection of billions of devices and big data as a driver for smart decision-making in fields like transportation, manufacturing, and healthcare.  
+### **4. Implementation and Execution Process**  
+Source code is written, compiled to object files, linked to create executable files, and debugged to correct errors.  
+Compilers translate whole source code, while interpreters execute code line by line.
+
+### **5. Important Languages**  
+FORTRAN (scientific), COBOL (business), BASIC (education), Pascal (structured), C (system), C++ (object-oriented), Java (cross-platform), C# (Microsoft/.NET), Python (AI/data), Go, Kotlin (Android), Swift (Apple), R (statistics/data science).
+
+### **6. Object-Oriented Programming**  
+Object-oriented programming (OOP): Concepts such as abstraction, inheritance, encapsulation, polymorphism.  
+Objects consist of attributes and behaviors, modeled naturally after real-world entities.
 
 </details>
-
 
 <details>
 <summary>KOR (한국어 버전)</summary>
 
-## **1장 – 인공지능과 함께하는 우리사회**  
+## **8장 – 프로그래밍언어**  
 
-이 장은 인공지능(AI), 메타버스, 인터넷 콘텐츠, 제4차 산업혁명 등 현대 사회의 핵심 IT 개념과 기술 변화를 다룸.  
+프로그래밍언어 발전, 특징, 개발환경 및 주요 패러다임 요약.
 
-### **1. 가상세계와 메타버스**  
-가상세계, 아바타, 증강현실(AR), 가상현실(VR), 혼합현실(MR), 확장현실(XR)의 개념과 특징을 설명. 메타버스는 현실과 가상의 융합 공간으로, 교육·콘서트·산업현장 등에서 활용 사례를 소개함. ASF 분류 체계에 따라 증강현실·라이프로깅·거울세계·가상세계로 구분.  
+### **1. 프로그래밍언어 개념**  
+저급언어(기계어, 어셈블리어)와 고급언어(포트란, 코볼, 베이직 등)의 구분.  
+명령어 전달과 하드웨어 제어를 위한 언어.
 
-### **2. 인공지능과 삶의 변화**  
-앨런 튜링의 개념부터 현대의 딥러닝까지 인공지능의 발전 단계를 다룸. 알파고, 음성인식(STT), 음성합성(TTS), 챗봇 서비스, 자율주행 자동차 등의 기술 적용 사례를 설명. GPU와 TPU의 병렬처리 성능, 스마트기기에 적용된 AI 기능 등을 소개함.  
+### **2. 언어 세대별 분류**  
+기계어, 어셈블리어, 절차지향 언어(포트란, 코볼, 베이직, 파스칼), 비절차적, 시각적, 블록프로그래밍(스크래치), 데이터베이스질의언어 등 발전 과정.
 
-### **3. 인터넷 콘텐츠 서비스**  
-인터넷과 월드와이드웹(WWW)의 구조를 설명하고, 스마트폰 등장 이후 정보기술 변화(스마트혁명)를 다룸.  
-OTT(넷플릭스 등), 사용자 제작 콘텐츠(UCC, 유튜브), 소셜네트워크서비스(SNS)의 발전과 인공지능 기반 추천 시스템의 활용을 다루며 콘텐츠 소비 방식의 변화를 분석함.  
+### **3. 개발환경과 도구**  
+에디터, 컴파일러, 링커, 로더, 디버거 등 기초 도구.  
+IDE(통합개발환경)로 비주얼 스튜디오, GoLand, 이클립스 등.
 
-### **4. 제4차 산업혁명 시대**  
-클라우스 슈밥이 제시한 제4차 산업혁명의 정의를 중심으로, AI, 사물인터넷(IoT), 빅데이터가 융합된 지능형 사회를 설명. IoT는 모든 사물을 네트워크로 연결하여 대량의 데이터(빅데이터)를 생성하며, 이 데이터를 분석·활용해 생산성과 효율을 높이는 기술로 발전하고 있음을 서술함.  
+### **4. 구현과 실행 과정**  
+소스코드 작성, 컴파일, 오브젝트 파일 생성, 링크, 실행 파일 생성, 디버깅, 에러 수정 과정.
+
+### **5. 중요한 언어들**  
+포트란(과학), 코볼(기업업무), 베이직(교육), 파스칼(구조적), C(시스템), C++(객체지향), 자바(크로스 플랫폼), C#(.NET), 파이썬(AI/데이터), 고, 코틀린(안드로이드), 스위프트(애플), R(통계분석).
+
+### **6. 객체지향 프로그래밍**  
+추상화, 상속, 캡슐화, 다형성 등 객체지향 개념.  
+속성과 행동으로 구성한 객체 중심 모델.  
+절차지향과 객체지향의 차이와 주요 언어 사례.
 
 </details>
