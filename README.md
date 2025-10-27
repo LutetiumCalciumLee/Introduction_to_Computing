@@ -1,43 +1,77 @@
 <details>
 <summary>ENG (English Version)</summary>
 
-## **Chapter 1 – Society with Artificial Intelligence**  
+## **Chapter 11 – The Fourth Industrial Revolution and Advanced Technologies**  
 
-This chapter explains how AI and cutting-edge technologies shape modern society, focusing on the **metaverse**, **smart technologies**, and the **Fourth Industrial Revolution**.  
 
-### **1. The Metaverse and Virtual Worlds**  
-Introduces the concept of the metaverse—a fusion of physical and virtual realities. Discusses avatars, mixed reality (MR), extended reality (XR), and how VR/AR technologies are used in education, entertainment, and conferences. The ASF classifies metaverse types such as augmented reality, lifelogging, mirror worlds, and virtual worlds.  
+### **1. History of Industrial Revolutions**  
+First: Steam engine, mechanization, mass production.  
+Second: Electricity, internal combustion engine, mass automation.  
+Third: Computers, semiconductors, mainframes, digitalization, internet.  
+Fourth: Smart devices, AI, IoT, big data, cloud technologies.
 
-### **2. Artificial Intelligence in Daily Life**  
-Explains the rise of AI from Turing’s early ideas to modern deep learning. Covers examples like AlphaGo, speech recognition (STT), text-to-speech (TTS), and chatbot services. Describes how machine learning, neural networks, and GPUs/TPUs enable innovations such as autonomous vehicles, voice assistants (Siri, Bixby, Watson), and computer vision.  
+### **2. Key Technologies Driving the Fourth Industrial Revolution**  
+Core technologies: AI, IoT, cloud computing, big data, robotics, blockchain, 3D printing, wearables.
 
-### **3. Internet and Digital Contents**  
-Describes the evolution of the Internet (WWW, protocols, browsers) and the “smart revolution” after smartphones. Highlights online content trends like OTT (Netflix), user-created content (YouTube), and social media (SNS). Discusses the role of recommendation systems powered by machine learning and deep learning.  
+### **3. Hyperconnected Society**  
+Integration of systems where everything is connected through networks—information generation, collection, sharing, and utilization.
 
-### **4. The Fourth Industrial Revolution**  
-Introduces Klaus Schwab’s concept emphasizing AI, IoT, and big data as key elements for the next industrial era. Explains IoT (Internet of Things) as the interconnection of billions of devices and big data as a driver for smart decision-making in fields like transportation, manufacturing, and healthcare.  
+### **4. Mobile Computing and Cloud Computing**  
+Development of mobile devices (PDA, smartphones, tablets), mobile OS (iOS, Android), app stores.  
+Cloud models: IaaS, PaaS, SaaS; on-demand access to infrastructure, platforms, and software.
+
+### **5. Intelligent Robots and Advanced Technologies**  
+Humanoid robots, industrial robots, perception and actuating technologies, autonomous robots in logistics and manufacturing, wearable devices.
+
+### **6. Big Data and Applications**  
+Characteristics (Volume, Velocity, Variety), value extraction via data mining/statistics/AI.  
+Application cases: real-time analysis for manufacturing, urban transport optimization.
+
+### **7. Blockchain and Cryptocurrency**  
+Blockchain as a distributed, secure, transparent ledger for transactions; decentralized systems.  
+Applications: finance, logistics, public services, industry, document management.  
+Cryptocurrency mining, characteristics, Bitcoin overview.
+
+### **8. Future Workforce and Core Competencies**  
+Autonomous learning, computational thinking, creativity, convergence, communication, collaboration.
+
+### **9. Educational Responses**  
+Emphasis on microcollege, nanodegree, industry-focused short-term training for future skills.
 
 </details>
-
 
 <details>
 <summary>KOR (한국어 버전)</summary>
 
-## **1장 – 인공지능과 함께하는 우리사회**  
+## **11장 – 제4차산업혁명과 첨단기술**  
 
-이 장은 인공지능(AI), 메타버스, 인터넷 콘텐츠, 제4차 산업혁명 등 현대 사회의 핵심 IT 개념과 기술 변화를 다룸.  
 
-### **1. 가상세계와 메타버스**  
-가상세계, 아바타, 증강현실(AR), 가상현실(VR), 혼합현실(MR), 확장현실(XR)의 개념과 특징을 설명. 메타버스는 현실과 가상의 융합 공간으로, 교육·콘서트·산업현장 등에서 활용 사례를 소개함. ASF 분류 체계에 따라 증강현실·라이프로깅·거울세계·가상세계로 구분.  
+### **1. 산업혁명 역사**  
+1차(증기기관, 기계화), 2차(전기, 내연기관, 자동화), 3차(컴퓨터, 반도체, 디지털화, 인터넷), 4차(스마트기기, 인공지능, 사물인터넷, 빅데이터, 클라우드) 중심 변화.
 
-### **2. 인공지능과 삶의 변화**  
-앨런 튜링의 개념부터 현대의 딥러닝까지 인공지능의 발전 단계를 다룸. 알파고, 음성인식(STT), 음성합성(TTS), 챗봇 서비스, 자율주행 자동차 등의 기술 적용 사례를 설명. GPU와 TPU의 병렬처리 성능, 스마트기기에 적용된 AI 기능 등을 소개함.  
+### **2. 4차산업혁명 핵심기술**  
+AI, IoT, 클라우드컴퓨팅, 빅데이터, 로봇, 블록체인, 3D 프린팅, 웨어러블 등 미래 핵심 기술.
 
-### **3. 인터넷 콘텐츠 서비스**  
-인터넷과 월드와이드웹(WWW)의 구조를 설명하고, 스마트폰 등장 이후 정보기술 변화(스마트혁명)를 다룸.  
-OTT(넷플릭스 등), 사용자 제작 콘텐츠(UCC, 유튜브), 소셜네트워크서비스(SNS)의 발전과 인공지능 기반 추천 시스템의 활용을 다루며 콘텐츠 소비 방식의 변화를 분석함.  
+### **3. 초연결사회**  
+모든 사물이 네트워크로 연결되어 정보 생성, 수집, 공유, 활용되는 사회.
 
-### **4. 제4차 산업혁명 시대**  
-클라우스 슈밥이 제시한 제4차 산업혁명의 정의를 중심으로, AI, 사물인터넷(IoT), 빅데이터가 융합된 지능형 사회를 설명. IoT는 모든 사물을 네트워크로 연결하여 대량의 데이터(빅데이터)를 생성하며, 이 데이터를 분석·활용해 생산성과 효율을 높이는 기술로 발전하고 있음을 서술함.  
+### **4. 모바일컴퓨팅과 클라우드컴퓨팅**  
+모바일기기(PDA, 스마트폰, 태블릿), 모바일OS(iOS, 안드로이드), 앱스토어, 클라우드(IaaS, PaaS, SaaS) 기반 정보기술 변화.
+
+### **5. 지능형로봇과 첨단기술**  
+휴머노이드로봇, 산업용로봇, 센싱·동작기술, 자율로봇, 웨어러블디바이스 등 로봇기술.
+
+### **6. 빅데이터와 응용사례**  
+3V(양, 속도, 다양성) 특징, 데이터 분석·가치 창출, 실시간 생산·교통 등 산업 활용.
+
+### **7. 블록체인과 가상화폐**  
+블록체인(분산·투명 원장, 탈중앙화), 금융·물류·공공·산업에서의 응용, 암호화폐(비트코인 등) 특징과 채굴 개념.
+
+### **8. 미래인재와 역량**  
+자기주도학습, 컴퓨팅사고력, 창의성, 융합역량, 의사소통, 협동역량 등 미래역량.
+
+### **9. 교육 대응과 단기전문교육**  
+마이크로칼리지, 나노디그리, 산업 맞춤형 단기교육, 집중훈련.
 
 </details>
+
