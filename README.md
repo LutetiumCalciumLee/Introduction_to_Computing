@@ -1,7 +1,9 @@
 <details>
 <summary>ENG (English Version)</summary>
 
-# Introduction to Computer Science
+# Introduction to Computers
+This repository contains my notes on Introduction to Computers, studied as part of the High-Tech Program in the Department of AI Software.
+
 
 ## [**Chapter 1 – AI in Our Society**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.01)  
 - **Metaverse & Virtual Worlds**: Fusion of AR, VR, MR, XR in daily life; ASF categories (AR, Lifelogging, Mirror, Virtual).  
@@ -123,8 +125,10 @@
 <summary>KOR (한국어 버전)</summary>
 
 # 컴퓨터 개론
+이 레포지토리에는 인공지능소프트웨어과 하이테크 과정에서 학습한 컴퓨터 개론 내용을 정리하여 업로드했습니다.
 
-## **1장 – 인공지능과 함께하는 우리사회**
+
+## [**1장 – 인공지능과 함께하는 우리사회**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.01)
 
 * **가상세계와 메타버스**: AR, VR, MR, XR 기술을 기반으로 한 현실-가상 융합 공간. ASF 기준으로 4가지 유형(AR, 라이프로깅, 거울세계, 가상세계) 분류.
 * **인공지능과 삶의 변화**: 튜링 → 딥러닝 발전. AlphaGo, STT, TTS, 챗봇, 자율주행 등 AI 기술 활용 사례.
@@ -132,7 +136,7 @@
 * **제4차 산업혁명 시대**: AI, IoT, 빅데이터 융합 사회. 데이터 기반 의사결정, 스마트 산업 실현.
 
 
-## **2장 – 컴퓨터 개요**
+## [**2장 – 컴퓨터 개요**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.02)
 
 * **컴퓨터란**: 처리, 저장, 입력, 출력 수행. 0과 1의 디지털 정보 처리.
 * **하드웨어 요소**: CPU(ALU+제어장치), 기억장치(RAM, 보조), 입력/출력 장치.
@@ -141,7 +145,7 @@
 * **종류**: PC, 워크스테이션, 메인프레임, 슈퍼컴퓨터, 키오스크 등.
 
 
-## **3장 – 정보의 표현**
+## [**3장 – 정보의 표현**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.03)
 
 * **자료 표현**: 0과 1로 표현. 이진법 기반.
 * **진수 표현**: 2진수, 8진수, 16진수, 변환 방법.
@@ -154,7 +158,7 @@
 * **논리 회로 설계**: 진리표 기반 회로 생성.
 
 
-## **4장 – 컴퓨터 구조**
+## [**4장 – 컴퓨터 구조**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.04)
 
 * **폰 노이만 구조**: 명령어+데이터 동일 기억장치. 인출-해독-실행.
 * **명령어 구조**: Opcode + Operand (예: ADD, LOAD).
@@ -167,7 +171,7 @@
 * **성능 요소**: 클럭, 버스 폭, 병렬처리, 무어의 법칙, CISC vs RISC.
 
 
-## **5장 – 운영체제와 활용**
+## [**5장 – 운영체제와 활용**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.05)
 
 * **운영체제 개요**: 시스템 자원 관리 및 사용자 인터페이스 제공.
 * **주요 기능**: 프로세스/메모리/파일/장치 관리.
@@ -178,7 +182,7 @@
 * **윈도우 활용**: 가상 데스크톱, 파일 탐색기 바로가기, 폴더 옵션 설정.
 
 
-## **6장 – 인공지능과 딥러닝**
+## [**6장 – 인공지능과 딥러닝**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.06)
 
 * **AI 개요**: 인간 지능의 컴퓨터 구현. 튜링테스트, 퍼셉트론.
 * **머신러닝/딥러닝**: 데이터 기반 학습. 다층 신경망 사용.
@@ -188,7 +192,7 @@
 * **윤리 고려**: 안전성, 프라이버시, 사회적 영향.
 
 
-## **7장 – 컴퓨팅사고력과 문제해결**
+## [**7장 – 컴퓨팅사고력과 문제해결**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.07)
 
 * **컴퓨팅 사고력 개요**: 복잡한 문제를 논리적으로 해결.
 * **핵심 요소**: 자료 수집, 분석, 문제분해, 추상화, 알고리즘 설계.
@@ -199,7 +203,7 @@
 * **도구 및 언어**: 스크래치, 엔트리, 파이썬 등 교육용 언어 활용.
 
 
-## **8장 – 프로그래밍언어**
+## [**8장 – 프로그래밍언어**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.08)
 
 * **개념**: 저급언어(기계/어셈블리), 고급언어(C, Java 등).
 * **세대별 분류**: FORTRAN, COBOL → BASIC, C++ → 파이썬, R 등.
@@ -209,7 +213,7 @@
 * **OOP(객체지향)**: 추상화, 상속, 캡슐화, 다형성.
 
 
-## **9장 – 데이터베이스**
+## [**9장 – 데이터베이스**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.09)
 
 * **개념**: 데이터 중복 최소화, 통합 저장소.
 * **DBMS**: 사용자와 DB 연결, 저장/질의/접근 인터페이스 제공.
@@ -221,7 +225,7 @@
 * **데이터마이닝/NoSQL**: 패턴 추출, 비정형 데이터 처리(MongoDB 등).
 
 
-## **10장 – 네트워크와 WWW**
+## [**10장 – 네트워크와 WWW**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.10)
 
 * **개념**: 송수신자, 매체, 프로토콜(TCP/IP 등), LAN/WAN 구조.
 * **장치**: 모뎀, NIC, 허브, 라우터, 게이트웨이 등.
@@ -232,7 +236,7 @@
 * **웹 패러다임**: 웹1.0(정적), 웹2.0(참여), 웹3.0(스마트/시맨틱).
 
 
-## **11장 – 제4차 산업혁명과 첨단기술**
+## [**11장 – 제4차 산업혁명과 첨단기술**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.11)
 
 * **산업혁명 역사**: 증기 → 전기 → 디지털 → 스마트혁명.
 * **핵심기술**: AI, IoT, 빅데이터, 클라우드, 로봇, 블록체인 등.
@@ -245,7 +249,7 @@
 * **교육 대응**: 마이크로칼리지, 나노디그리, 단기 집중 교육.
 
 
-## **12장 – 멀티미디어 개론**
+## [**12장 – 멀티미디어 개론**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.12)
 
 * **개요**: 오디오, 이미지, 영상 등 통합 표현 미디어.
 * **데이터 형식**: MP3, JPEG, MPEG, ASCII 등.
@@ -255,7 +259,7 @@
 * **보안**: 워터마킹, DRM, 핑거프린팅으로 저작권 보호.
 
 
-## **13장 – 정보보안**
+## [**13장 – 정보보안**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.13)
 
 * **개념**: 시스템/네트워크 보호, 정보 위협(가로채기, 위조 등).
 * **보안 목표**: 비밀성, 무결성, 가용성 + 인증, 접근제어.
