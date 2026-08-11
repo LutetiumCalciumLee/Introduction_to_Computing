@@ -1,20 +1,22 @@
 <details>
 <summary>ENG (English Version)</summary>
 
-## **Chapter 1 – AI in Our Society**  
+# Introduction to Computer Science
+
+## [**Chapter 1 – AI in Our Society**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.01)  
 - **Metaverse & Virtual Worlds**: Fusion of AR, VR, MR, XR in daily life; ASF categories (AR, Lifelogging, Mirror, Virtual).  
 - **AI in Daily Life**: From Turing to deep learning; use in AlphaGo, STT/TTS, chatbots, autonomous driving.  
 - **Internet Contents**: Smart revolution after WWW and smartphones; rise of OTT, UCC, SNS with AI-based recommendation.  
 - **4th Industrial Revolution**: Smart society built on AI, IoT, big data for decision-making and automation.
 
-## **Chapter 2 – Computer Overview**  
+## [**Chapter 2 – Computer Overview**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.02)  
 - **Definition**: Processing, storing, input, output using binary.  
 - **Hardware**: CPU (ALU + control unit), memory (RAM), I/O devices.  
 - **Software**: OS and applications.  
 - **History**: From calculators to modern generations.  
 - **Types**: PC, workstations, mainframes, kiosks, etc.
 
-## **Chapter 3 – Information Representation**  
+## [**Chapter 3 – Information Representation**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.03)  
 - **Data Format**: Binary (0s and 1s).  
 - **Number Systems**: Binary, octal, hex; conversions.  
 - **Negative Numbers**: 2’s complement method.  
@@ -25,7 +27,7 @@
 - **Arithmetic**: Addition, subtraction using 2’s complement.  
 - **Circuit Design**: Truth table to gates.
 
-## **Chapter 4 – Computer Architecture**  
+## [**Chapter 4 – Computer Architecture**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.04) 
 - **Von Neumann Model**: Shared memory for data & code.  
 - **Instruction Format**: Opcode + operand.  
 - **Memory System**: RAM, ROM, BIOS, address-based access.  
@@ -36,7 +38,7 @@
 - **Cycle**: Fetch → decode → execute.  
 - **Performance**: Clock, bus, Moore’s law, RISC vs CISC.
 
-## **Chapter 5 – Operating Systems**  
+## [**Chapter 5 – Operating Systems**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.05)  
 - **Definition**: Manages hardware, software, and user interface.  
 - **Functions**: Process, memory, file, device management.  
 - **Interface Types**: CLI vs GUI.  
@@ -45,7 +47,7 @@
 - **History**: MS-DOS → Windows → Linux/Unix.  
 - **Windows Tips**: Virtual desktops, Explorer shortcuts, folder options.
 
-## **Chapter 6 – AI & Deep Learning**  
+## [**Chapter 6 – AI & Deep Learning**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.06)
 - **AI Overview**: Mimicking intelligence.  
 - **Machine & Deep Learning**: Data-driven learning, neural nets.  
 - **Milestones**: AI winters → resurgence.  
@@ -53,14 +55,14 @@
 - **Applications**: NLP, diagnosis, art, autonomous driving.  
 - **Ethics**: Privacy, safety, responsibility.
 
-## **Chapter 7 – Computational Thinking**  
+## [**Chapter 7 – Computational Thinking**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.07)  
 - **Definition**: General problem-solving framework.  
 - **Components**: Data handling, decomposition, abstraction, patterning.  
 - **Significance**: Enhances logic, creativity, communication.  
 - **Techniques**: Divide & conquer, top-down design.  
 - **Tools**: Scratch, Entry, Python, Blockly.
 
-## **Chapter 8 – Programming Languages**  
+## [**Chapter 8 – Programming Languages**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.08)    
 - **Concepts**: Low-level vs high-level.  
 - **Generations**: FORTRAN → BASIC → Python, R, Go.  
 - **Development Tools**: IDEs like VS, GoLand.  
@@ -68,7 +70,7 @@
 - **Languages**: C, Java, Swift, Kotlin, etc.  
 - **OOP**: Abstraction, inheritance, encapsulation, polymorphism.
 
-## **Chapter 9 – Databases**  
+## [**Chapter 9 – Databases**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.09)  
 - **Concepts**: Structured, minimized redundancy.  
 - **DBMS**: Interface between data & users.  
 - **Structure**: Field → record → file → database.  
@@ -78,7 +80,7 @@
 - **Types**: MySQL, Oracle, SQLite.  
 - **Data Mining/NoSQL**: Big data, MongoDB.
 
-## **Chapter 10 – Networks & WWW**  
+## [**Chapter 10 – Networks & WWW**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.10)  
 - **Concepts**: TCP/IP, LAN/WAN, sender-receiver.  
 - **Devices**: Modem, router, hub, NIC.  
 - **Types**: LAN, MAN, WAN.  
@@ -87,7 +89,7 @@
 - **Web Tech**: HTML5, CSS, JS.  
 - **Paradigms**: Web 1.0 → 2.0 → 3.0.
 
-## **Chapter 11 – 4IR & Advanced Tech**  
+## [**Chapter 11 – 4IR & Advanced Tech**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.11)    
 - **Revolutions**: Steam → electricity → digital → smart.  
 - **Core Tech**: AI, IoT, cloud, robots, blockchain.  
 - **Hyperconnectivity**: All things networked.  
@@ -98,7 +100,7 @@
 - **Future Skills**: CT, creativity, collaboration.  
 - **Education**: Nanodegree, industry training.
 
-## **Chapter 12 – Multimedia**  
+## [**Chapter 12 – Multimedia**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.12)  
 - **Overview**: Audio, image, video, text.  
 - **Formats**: MP3, JPEG, MPEG, Unicode.  
 - **System**: Hardware + software.  
@@ -106,7 +108,7 @@
 - **Applications**: VOD, telemedicine, UHD.  
 - **Security**: DRM, watermarking, fingerprinting.
 
-## **Chapter 13 – Information Security**  
+## [**Chapter 13 – Information Security**](https://github.com/LutetiumCalciumLee/Studying_Computer_Science/tree/Ch.13)  
 - **Concepts**: Confidentiality, integrity, availability.  
 - **Threats**: Viruses, phishing, hacking, DDoS.  
 - **Countermeasures**: Antivirus, strong passwords, backups.  
@@ -119,6 +121,8 @@
 
 <details>
 <summary>KOR (한국어 버전)</summary>
+
+# 컴퓨터 개론
 
 ## **1장 – 인공지능과 함께하는 우리사회**
 
